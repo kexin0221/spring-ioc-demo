@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0afb6b4e-1f19-4519-9b9a-c3d9cae29629" name="Changes" comment="提交代码">
-      <change beforePath="$PROJECT_DIR$/../spring-aop-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aop-demo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-trans-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-trans-demo" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,8 +105,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.27397.103" />
-        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.27397.103" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
       </set>
     </attachedChunks>
   </component>
@@ -133,6 +133,7 @@
       <workItem from="1763299769227" duration="27000" />
       <workItem from="1763604387657" duration="39000" />
       <workItem from="1763606706287" duration="251000" />
+      <workItem from="1764073982077" duration="135000" />
     </task>
     <task id="LOCAL-00001" summary="提交代码">
       <option name="closed" value="true" />
@@ -182,7 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763606713742</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="提交代码">
+      <option name="closed" value="true" />
+      <created>1764073989606</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1764073989606</updated>
+    </task>
+    <task id="LOCAL-00008" summary="提交代码">
+      <option name="closed" value="true" />
+      <created>1764074096692</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1764074096692</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
