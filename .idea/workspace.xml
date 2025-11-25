@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0afb6b4e-1f19-4519-9b9a-c3d9cae29629" name="Changes" comment="提交代码" />
+    <list default="true" id="0afb6b4e-1f19-4519-9b9a-c3d9cae29629" name="Changes" comment="提交代码">
+      <change beforePath="$PROJECT_DIR$/../spring-aop-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-aop-demo" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +132,7 @@
       <workItem from="1763182589704" duration="467000" />
       <workItem from="1763299769227" duration="27000" />
       <workItem from="1763604387657" duration="39000" />
+      <workItem from="1763606706287" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="提交代码">
       <option name="closed" value="true" />
@@ -171,7 +174,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763604394006</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="提交代码">
+      <option name="closed" value="true" />
+      <created>1763606713742</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1763606713742</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
