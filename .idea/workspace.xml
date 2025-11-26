@@ -4,102 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0afb6b4e-1f19-4519-9b9a-c3d9cae29629" name="Changes" comment="提交代码" />
+    <list default="true" id="cb29d8b2-ef6c-4dca-897a-6739ec2c6b18" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spring-trans-demo" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-trans-demo" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="package-info" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;kexin0221&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/kexin0221/study.git&quot;,
-    &quot;accountId&quot;: &quot;acecae4c-3ee7-475e-866d-036d314984ab&quot;
-  }
-}</component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/6.2.11/spring-context-6.2.11-sources.jar!/org/springframework/context/annotation/Bean.java" root0="SKIP_INSPECTION" />
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="localRepository" value="C:\Users\MouKexin\.m2\repository" />
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-        <option name="useMavenConfig" value="false" />
-        <option name="userSettingsFile" value="C:\Users\MouKexin\.m2\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
-}</component>
-  <component name="ProjectId" id="34865qPrECc737bjjYFfEF3FGWX" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="360J89qz8GhNWCZW1ENDozwiob2" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Spring Boot.SpringIocDemoApplication.executor": "Run",
     "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/code/java/spring-ioc-demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.23700121",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.bite.springiocdemo" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.bite.springiocdemo.config" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="SpringIocDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="spring-ioc-demo" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bite.springiocdemo.SpringIocDemoApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -110,110 +48,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0afb6b4e-1f19-4519-9b9a-c3d9cae29629" name="Changes" comment="" />
-      <created>1760582672925</created>
+      <changelist id="cb29d8b2-ef6c-4dca-897a-6739ec2c6b18" name="Changes" comment="" />
+      <created>1764137393921</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1760582672925</updated>
-      <workItem from="1760582673797" duration="1449000" />
-      <workItem from="1760586798934" duration="571000" />
-      <workItem from="1760599241354" duration="7579000" />
-      <workItem from="1760619336041" duration="3628000" />
-      <workItem from="1760669071873" duration="6503000" />
-      <workItem from="1760689681660" duration="3876000" />
-      <workItem from="1760762097671" duration="11287000" />
-      <workItem from="1761464794830" duration="107000" />
-      <workItem from="1761464913029" duration="236000" />
-      <workItem from="1761465238696" duration="264000" />
-      <workItem from="1762592956227" duration="46000" />
-      <workItem from="1763182312770" duration="269000" />
-      <workItem from="1763182589704" duration="467000" />
-      <workItem from="1763299769227" duration="27000" />
-      <workItem from="1763604387657" duration="39000" />
-      <workItem from="1763606706287" duration="251000" />
-      <workItem from="1764073982077" duration="135000" />
-      <workItem from="1764074400948" duration="115000" />
+      <updated>1764137393921</updated>
+      <workItem from="1764137394727" duration="873000" />
     </task>
-    <task id="LOCAL-00001" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1763182461349</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1763182461349</updated>
-    </task>
-    <task id="LOCAL-00002" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1763182602570</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1763182602570</updated>
-    </task>
-    <task id="LOCAL-00003" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1763183017882</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1763183017882</updated>
-    </task>
-    <task id="LOCAL-00004" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1763299773272</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1763299773272</updated>
-    </task>
-    <task id="LOCAL-00005" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1763604394006</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1763604394006</updated>
-    </task>
-    <task id="LOCAL-00006" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1763606713742</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1763606713742</updated>
-    </task>
-    <task id="LOCAL-00007" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1764073989606</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1764073989606</updated>
-    </task>
-    <task id="LOCAL-00008" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1764074096692</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1764074096692</updated>
-    </task>
-    <task id="LOCAL-00009" summary="提交代码">
-      <option name="closed" value="true" />
-      <created>1764074410534</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1764074410534</updated>
-    </task>
-    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="提交代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="提交代码" />
   </component>
 </project>
